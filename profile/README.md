@@ -1,4 +1,4 @@
-# MSc Thesis
+# MSc thesis repository
 
 This organisation contains commits related to the work carried out in the activities of 
 - RESEARCH TRAINING
