@@ -1,6 +1,6 @@
 # MSc thesis repository
 
-This organisation contains commits related to the work carried out in the activities of 
+This organisation contains commits related to the work done in 
 - RESEARCH TRAINING
 - FINAL PROJECT
 
